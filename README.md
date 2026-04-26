@@ -6,7 +6,7 @@
 
 ## 🚀 Demo
 
-[![Ver Dashboard](https://img.shields.io/badge/▶_Ver_Demo-HTML_Dashboard-095F4E?style=for-the-badge&logo=html5&logoColor=white)](https://teoramos05.github.io/Dashboard-Operaciones/visuals/dashboard_demo.html)
+[![Ver Dashboard](https://img.shields.io/badge/▶_Ver_Demo-HTML_Dashboard-095F4E?style=for-the-badge&logo=html5&logoColor=white)](https://teoramos05.github.io/Dashboard-Operaciones/visuals/iandex.html)
 [![Documentación](https://img.shields.io/badge/📄_Documentación-Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/34e5080a0de48183afe9e7deca202de0)
 
 ---
