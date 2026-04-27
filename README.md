@@ -55,17 +55,17 @@ epigram.client → apiClient.user → apiClient.wallet → apiClient.card → Tr
 ### KPI Cards (×6)
 Cards con métricas operacionales: valor del mes, valor hoy, delta vs día anterior y vs mes anterior con pill de color.
 
-![KPI Cards](dash_kpi.png)
+![KPI Cards](images/dash_kpi.png)
 
 ### Trendline + Cards Tarjetas
 Gráfico de tendencia con 4 series (Volumen Autorizado, Monto Autorizado, Dev/Anu, MoneySend) y panel de tarjetas emitidas con sparkline mensual.
 
-![Trendline](dash_mid.png)
+![Trendline](images/dash_mid.png)
 
 ### Clientes · Comercios · Canal & Origen
 Rankings por volumen y desglose de canal (ATM/POS) y origen geográfico (Cross-Border/Doméstico).
 
-![Rankings](dash_bot.png)
+![Rankings](images/dash_bot.png)
 
 ---
 
