@@ -2,7 +2,6 @@
 
 > Rediseño completo del Main Dashboard de Operaciones en Power BI usando visuales HTML/CSS personalizados.
 
-![Dashboard Preview](images/comparativa_antes_despues.png)
 
 ---
 
