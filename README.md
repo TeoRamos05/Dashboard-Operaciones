@@ -84,11 +84,11 @@ Rankings por volumen y desglose de canal (ATM/POS) y origen geográfico (Cross-B
 
 | Token | HEX | Vista previa |
 | :--- | :--- | :--- |
-| Brand Dark | `#1F2223` | `#1F2223` ⬛ |
-| Seafoam Green | `#95F9CB` | `#95F9CB` 🟩 |
-| Teal | `#0AAFB0` | `#0AAFB0` 🟦 |
-| Light Blue | `#C7F3FD` | `#C7F3FD` 🧊 |
-| Coral | `#F97B75` | `#F97B75` 🟥 |
+| Brand Dark | `#1F2223` | ⬛ |
+| Seafoam Green | `#95F9CB` | 🟩 |
+| Teal | `#0AAFB0` | 🟦 |
+| Light Blue | `#C7F3FD` | 🧊 |
+| Coral | `#F97B75` | 🟥 |
 
 
 
