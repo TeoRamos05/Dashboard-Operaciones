@@ -80,6 +80,18 @@ Rankings por volumen y desglose de canal (ATM/POS) y origen geográfico (Cross-B
 | Light Blue | `#C7F3FD` | ![](https://via.placeholder.com/16/C7F3FD/C7F3FD.png) |
 | Coral | `#F97B75` | ![](https://via.placeholder.com/16/F97B75/F97B75.png) |
 
+## 🎨 Paleta Corporativa
+
+| Token | HEX | Vista previa |
+| :--- | :--- | :--- |
+| Brand Dark | `#1F2223` | `#1F2223` ⬛ |
+| Seafoam Green | `#95F9CB` | `#95F9CB` 🟩 |
+| Teal | `#0AAFB0` | `#0AAFB0` 🟦 |
+| Light Blue | `#C7F3FD` | `#C7F3FD` 🧊 |
+| Coral | `#F97B75` | `#F97B75` 🟥 |
+
+
+
 ---
 
 ## 🔑 Patrones DAX Clave
