@@ -1,4 +1,4 @@
-# 📊 Dashboard de Operaciones — PayCaddy
+# 📊 Dashboard de Operaciones
 
 > Rediseño completo del Main Dashboard de Operaciones en Power BI usando visuales HTML/CSS personalizados.
 
